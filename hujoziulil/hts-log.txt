@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 19 Nov 2021 13:46:48 at https://rubykrafts.fluffyair.repl.co/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "de, en, *" https://rubykrafts.fluffyair.repl.co/ -O1 "D:\Programs\Meine Websiten\hujoziulil" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:47:00	Error: 	"Not Found" (404) at link https://rubykrafts.fluffyair.repl.co/fonts/nucleo-outline.eot (from https://rubykrafts.fluffyair.repl.co/css/now-ui-kit.css)
+13:47:00	Error: 	"Not Found" (404) at link https://rubykrafts.fluffyair.repl.co/fonts/nucleo-outline.woff2 (from https://rubykrafts.fluffyair.repl.co/css/now-ui-kit.css)
+13:47:00	Error: 	"Not Found" (404) at link https://rubykrafts.fluffyair.repl.co/fonts/nucleo-outline.woff (from https://rubykrafts.fluffyair.repl.co/css/now-ui-kit.css)
+13:47:00	Error: 	"Not Found" (404) at link https://rubykrafts.fluffyair.repl.co/fonts/nucleo-outline.ttf (from https://rubykrafts.fluffyair.repl.co/css/now-ui-kit.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 seconds : 21 links scanned, 16 files written (1573271 bytes overall) [1505114 bytes received at 125426 bytes/sec], 148993 bytes transferred using HTTP compression in 3 files, ratio 33%
+(4 errors, 0 warnings, 0 messages)
